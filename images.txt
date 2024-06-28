@@ -1,3 +1,4 @@
 whyour/qinglong
 linuxserver/qbittorrent
 AdGuard/AdGuard Home
+Alist
