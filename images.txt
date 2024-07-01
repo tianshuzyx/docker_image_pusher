@@ -2,3 +2,4 @@ whyour/qinglong
 linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
+portainer/portainer
