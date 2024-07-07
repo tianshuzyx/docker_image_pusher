@@ -1,5 +1,6 @@
-whyour/qinglong
+whyour/qinglong:latest
 linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
 portainer/portainer
+portainer-ce
