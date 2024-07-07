@@ -3,4 +3,3 @@ linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
 portainer/portainer
-portainer-ce
