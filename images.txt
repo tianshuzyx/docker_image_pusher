@@ -5,3 +5,4 @@ xhofe/alist
 portainer/portainer
 whyour/qinglong:2.11.1
 portainer/portainer-ce
+whyour/qinglong:2.10.13
