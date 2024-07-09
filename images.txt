@@ -5,4 +5,4 @@ xhofe/alist
 portainer/portainer
 portainer/portainer-ce
 whyour/qinglong:2.10.13
-onecloud/openwrt
+jyhking/onecloud:1.2
