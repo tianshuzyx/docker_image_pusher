@@ -6,3 +6,8 @@ portainer/portainer
 portainer/portainer-ce
 whyour/qinglong:2.10.13
 jyhking/onecloud:1.2
+lstcml/oray
+lstcml/sshd
+lstcml/bypy
+lstcml/dosgame
+lstcml/n1_zerotier
