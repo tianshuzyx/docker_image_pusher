@@ -11,3 +11,4 @@ lstcml/sshd
 lstcml/bypy
 lstcml/dosgame
 lstcml/n1_zerotier
+tailscale/tailscale
