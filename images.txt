@@ -1,8 +1,8 @@
 whyour/qinglong
 linuxserver/qbittorrent
-adguard/adguardhome:arm
+adguard/adguardhome
 xhofe/alist
-portainer/portainer:armv7
+portainer/portainer
 portainer/portainer-ce
 jyhking/onecloud:1.2
 lstcml/oray
@@ -12,3 +12,6 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
+shufflewzc/qinglong
+hushunxu/qinglong_base
+hushunxu/qinglong_2.11.3
