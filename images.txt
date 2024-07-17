@@ -1,4 +1,4 @@
-hushunxu/qinglong_2.11.3:armv7
+hushunxu/qinglong_2.11.3
 portainer/pause:armv7
 linuxserver/qbittorrent
 adguard/adguardhome
