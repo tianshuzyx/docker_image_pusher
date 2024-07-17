@@ -1,3 +1,4 @@
+hushunxu/qinglong_2.11.3:armv7
 linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
@@ -13,5 +14,4 @@ tailscale/tailscale
 joinsunsoft/docker.ui
 shufflewzc/qinglong
 hushunxu/qinglong_base
-hushunxu/qinglong_2.11.3:armv7
 portainer/pause
