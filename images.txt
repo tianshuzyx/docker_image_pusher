@@ -1,5 +1,6 @@
 hushunxu/qinglong_2.11.3
 portainer/pause
+lstcml/n1_mmplayer
 linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
@@ -13,5 +14,5 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-shufflewzc/qinglong:armhf
-hushunxu/qinglong_base:armhf
+shufflewzc/qinglong
+hushunxu/qinglong_base
