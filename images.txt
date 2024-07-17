@@ -1,8 +1,8 @@
-whyour/qinglong:armv7
+whyour/qinglong
 linuxserver/qbittorrent
 adguard/adguardhome:armv7
 xhofe/alist
-portainer/portainer
+portainer/portainer:armv7
 portainer/portainer-ce
 jyhking/onecloud:1.2
 lstcml/oray
