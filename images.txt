@@ -15,5 +15,5 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-shufflewzc/qinglong:arm32v7
+shufflewzc/qinglong
 hushunxu/qinglong_base
