@@ -1,4 +1,4 @@
-hushunxu/qinglong_2.11.3
+hushunxu/qinglong_2.11.3:armhf
 portainer/pause
 linuxserver/qbittorrent
 adguard/adguardhome
@@ -13,5 +13,5 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-shufflewzc/qinglong:arm
-hushunxu/qinglong_base:arm
+shufflewzc/qinglong:armhf
+hushunxu/qinglong_base:armhf
