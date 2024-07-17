@@ -1,5 +1,5 @@
-wangbinxingkong/fast
-hushunxu/qinglong_2.11.3
+wangbinxingkong/fast:arm32v7
+hushunxu/qinglong_2.11.3:arm32v7
 portainer/pause
 lstcml/n1_mmplayer
 linuxserver/qbittorrent
@@ -15,5 +15,5 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-shufflewzc/qinglong
+shufflewzc/qinglong:arm32v7
 hushunxu/qinglong_base
