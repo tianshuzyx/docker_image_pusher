@@ -1,6 +1,6 @@
 whyour/qinglong
 linuxserver/qbittorrent
-adguard/adguardhome:armv7
+adguard/adguardhome:arm
 xhofe/alist
 portainer/portainer:armv7
 portainer/portainer-ce
