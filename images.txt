@@ -1,4 +1,4 @@
-hushunxu/qinglong_2.11.3:armhf
+hushunxu/qinglong_2.11.3
 portainer/pause
 linuxserver/qbittorrent
 adguard/adguardhome
