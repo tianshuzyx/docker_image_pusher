@@ -15,3 +15,4 @@ joinsunsoft/docker.ui
 shufflewzc/qinglong
 hushunxu/qinglong_base
 hushunxu/qinglong_2.11.3
+portainer/pause
