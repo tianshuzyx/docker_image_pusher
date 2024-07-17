@@ -1,4 +1,3 @@
-whyour/qinglong
 linuxserver/qbittorrent
 adguard/adguardhome
 xhofe/alist
@@ -14,5 +13,5 @@ tailscale/tailscale
 joinsunsoft/docker.ui
 shufflewzc/qinglong
 hushunxu/qinglong_base
-hushunxu/qinglong_2.11.3
+hushunxu/qinglong_2.11.3:20240212
 portainer/pause
