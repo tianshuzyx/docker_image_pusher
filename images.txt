@@ -13,5 +13,5 @@ tailscale/tailscale
 joinsunsoft/docker.ui
 shufflewzc/qinglong
 hushunxu/qinglong_base
-hushunxu/qinglong_2.11.3:20240212（amd64;arm64v8;arm32v7）
+hushunxu/qinglong_2.11.3:armv7
 portainer/pause
