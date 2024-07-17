@@ -1,4 +1,4 @@
-wangbinxingkong/fast:arm32v7
+wangbinxingkong/fast
 hushunxu/qinglong_2.11.3:arm32v7
 portainer/pause
 lstcml/n1_mmplayer
