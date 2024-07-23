@@ -16,4 +16,3 @@ lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
 shufflewzc/qinglong
-hushunxu/qinglong_base
