@@ -18,4 +18,3 @@ lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
 johngong/baidunetdisk
-sherlockouo/music
