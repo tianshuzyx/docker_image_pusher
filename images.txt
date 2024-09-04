@@ -16,3 +16,6 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
+fogforest/yesplaymusic
+johngong/baidunetdisk
+Sherlockouo/music
