@@ -1,3 +1,4 @@
+fogforest/yesplaymusic
 wangbinxingkong/fast
 whyour/qinglong
 hushunxu/qinglong_2.11.3
@@ -16,6 +17,5 @@ lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-fogforest/yesplaymusic
 johngong/baidunetdisk
-Sherlockouo/music
+sherlockouo/music
