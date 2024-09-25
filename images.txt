@@ -13,8 +13,8 @@ jyhking/onecloud:1.2
 lstcml/oray
 lstcml/sshd
 lstcml/bypy
-lstcml/dosgame
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
 johngong/baidunetdisk
+lstcml/dosgame
