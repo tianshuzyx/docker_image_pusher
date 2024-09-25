@@ -18,3 +18,4 @@ tailscale/tailscale
 joinsunsoft/docker.ui
 johngong/baidunetdisk
 lstcml/dosgame
+hanxi/xiaomusic
