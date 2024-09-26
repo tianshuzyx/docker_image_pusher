@@ -19,3 +19,5 @@ joinsunsoft/docker.ui
 johngong/baidunetdisk
 lstcml/dosgame
 hanxi/xiaomusic
+justsong/one-api
+lmk123/migpt-server:latest
