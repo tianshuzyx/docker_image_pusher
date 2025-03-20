@@ -17,7 +17,6 @@ lstcml/bypy
 lstcml/n1_zerotier
 tailscale/tailscale
 joinsunsoft/docker.ui
-johngong/baidunetdisk
 lstcml/dosgame
 justsong/one-api
 lmk123/migpt-server:latest
