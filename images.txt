@@ -1,3 +1,4 @@
+dpanel/dpanel:latest
 hanxi/xiaomusic
 fogforest/yesplaymusic
 wangbinxingkong/fast
